@@ -30,7 +30,9 @@ together, ensuring both organizers and attendees can easily achieve their object
 3. Optional: Add interactivity or show transitions between screens for a more dynamic
 presentation.
 
-<img width="871" height="387" alt="Bildschirmfoto 2026-04-08 um 20 50 16" src="https://github.com/user-attachments/assets/9056eed9-8615-4b25-a33a-a58a5fee5b12" />
+<img width="1215" height="501" alt="Bildschirmfoto 2026-04-10 um 15 57 08" src="https://github.com/user-attachments/assets/01b7a2a4-98b1-43d5-aad0-548047f608cd" />
+
+
 
 
 
