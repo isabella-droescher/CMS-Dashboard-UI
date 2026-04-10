@@ -30,6 +30,8 @@ together, ensuring both organizers and attendees can easily achieve their object
 3. Optional: Add interactivity or show transitions between screens for a more dynamic
 presentation.
 
+# My Figma Project (Screenshot)
+
 <img width="1215" height="501" alt="Bildschirmfoto 2026-04-10 um 15 57 08" src="https://github.com/user-attachments/assets/01b7a2a4-98b1-43d5-aad0-548047f608cd" />
 
 
