@@ -1,0 +1,34 @@
+# CMS-Dashboard UI Aufgabe
+
+Kombinierte UI/UX-Design-Challenge: Events-App & CMS
+
+Deine Aufgabe ist es, zwei miteinander verbundene Screens zu entwerfen:
+
+- einen Übersichts-Screen im CMS und
+- den entsprechenden Screen in der App.
+
+# Challenge-Überblick
+
+Deine Designs sollten zwei Perspektiven berücksichtigen:
+
+- Das CMS: Wird von Event-Organisatoren verwendet, um Events zu erstellen, zu verwalten und zu aktualisieren.
+- Die App: Wird von Kund:innen genutzt, um kommende Events zu entdecken und Event-Details anzuzeigen.
+
+Ziel ist es, intuitive, wiedererkennbare und praxisnahe Designs zu erstellen, die nahtlos zusammenarbeiten und sowohl Organisatoren als auch Teilnehmenden helfen, ihre Ziele einfach zu erreichen.
+
+# Ergebnis
+
+1. CMS-Übersichts-Screen
+- Ein Dashboard zur Verwaltung von Events.
+- Nutzer:innen sollen Events anzeigen, suchen und filtern können (z. B. nach Datum, Typ oder Status).
+- Optionen zum Hinzufügen, Bearbeiten und Löschen von Events.
+- Anzeige wichtiger Event-Details (z. B. Name, Datum, Ort und Status).
+
+2. App-Events-Übersichts-Screen
+- Ein kundenorientierter Screen mit einer Liste von Events.
+- Darstellung von Events mit wichtigen Informationen wie Name, Datum und Ort.
+- Möglichkeit für Nutzer:innen, ein Event anzutippen, um die Detailansicht zu öffnen.
+- Hervorhebung kommender Events und Einsatz ansprechender visueller Elemente, um Aufmerksamkeit zu erzeugen.
+
+3. Optional
+Füge Interaktionen oder Übergänge zwischen den Screens hinzu, um die Präsentation dynamischer zu gestalten.
