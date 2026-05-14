@@ -27,9 +27,6 @@ UI/UX Design · Prototyping · Informationsarchitektur
 * App-Interface zur Darstellung und Entdeckung von Events
 * Einheitliche visuelle und interaktive Sprache zwischen beiden Systemen
 
-## Wichtige Erkenntnisse
-Das Design zweier miteinander verbundener Systeme (Admin + Nutzer) verbessert die Verständlichkeit und Konsistenz des gesamten Nutzererlebnisses deutlich.
-
 
 # Design Screens 
 
@@ -51,7 +48,11 @@ Das Design zweier miteinander verbundener Systeme (Admin + Nutzer) verbessert di
 
 <img width="553" height="557" alt="Bildschirmfoto 2026-04-10 um 16 14 00" src="https://github.com/user-attachments/assets/8cb4888f-5a6a-4149-8433-549fbc119c17" />
 
+## Wichtige Erkenntnisse
+Das Design zweier miteinander verbundener Systeme (Admin + Nutzer) verbessert die Verständlichkeit und Konsistenz des gesamten Nutzererlebnisses deutlich.
 
+## Hinweis
+Die deutsche Aufgabenstellung befindet sich in der Datei "task-challenge-de.txt", die englische Version in der Datei "task-challenge-en.txt".
 
 
 
