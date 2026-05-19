@@ -33,20 +33,35 @@ UI/UX Design · Prototyping · Informationsarchitektur
 ## Übersicht (CMS + App)
   - Verbundene Interfaces für Eventverwaltung und Eventdarstellung
 
-<img width="1215" height="501" alt="Bildschirmfoto 2026-04-10 um 15 57 08" src="https://github.com/user-attachments/assets/01b7a2a4-98b1-43d5-aad0-548047f608cd" />
+<img width="2860" height="1416" alt="Übersicht" src="figma-ui/Übersicht.png" />
 
 ## CMS UI
   - Das CMS wird von Veranstaltern genutzt, um Veranstaltungen zu erstellen, zu verwalten und zu aktualisieren.
   - Übersicht aller Events mit Fokus auf schnelle Bearbeitung und klare Struktur.
 
-<img width="1064" height="604" alt="Bildschirmfoto 2026-04-10 um 16 13 46" src="https://github.com/user-attachments/assets/bbf12982-0c08-47be-a104-12792173e40c" />
+<img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS Screen.png" />
+
+## CMS UI 
+- Filteroptionen
+<img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS - Filter Option Active.png" />
+
+## CMS UI 
+- Account Popup Sidebar
+
+<img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS - Account Popup Active.png" />
 
 ## Mobile App UI
   - Die App wird von Kunden genutzt, um bevorstehende Veranstaltungen zu entdecken und Veranstaltungsdetails einzusehen.
   - links: Nutzer können kommende Events schnell durchsuchen und visuell erfassen.
   - rechts: Detaillierte Eventansicht mit Fokus auf klare Informationshierarchie.
 
-<img width="553" height="557" alt="Bildschirmfoto 2026-04-10 um 16 14 00" src="https://github.com/user-attachments/assets/8cb4888f-5a6a-4149-8433-549fbc119c17" />
+<img width="1517" height="1348" alt="Mobile Screen" src="figma-ui/Mobile App.png" />
+
+<img width="1517" height="1348" alt="Mobile Screen" src="figma-ui/Mobile-App.png" />
+
+<img width="1517" height="1348" alt="Mobile Screen Event Detail" src="figma-ui/Mobile App Event Detail.png" />
+
+
 
 ## Wichtige Erkenntnisse
 Das Design zweier miteinander verbundener Systeme (Admin + Nutzer) verbessert die Verständlichkeit und Konsistenz des gesamten Nutzererlebnisses deutlich.
