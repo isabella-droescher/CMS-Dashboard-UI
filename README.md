@@ -60,13 +60,16 @@ Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv gesch
 <img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS - Account Popup Active.png" />
 
 ## Mobile App UI
-- Die App dient Endnutzern als Plattform zur Entdeckung und Anzeige bevorstehender Veranstaltungen sowie zur detaillierten Einsicht in Eventinformationen.
+- Die Mobile App ist für Endnutzer konzipiert und dient als Plattform zur Entdeckung und Darstellung bevorstehender Veranstaltungen.
+- Der Fokus liegt auf einer intuitiven, visuell orientierten User Experience mit klarer Informationsstruktur.
 
 - Linke Ansicht:
-  - Die Übersicht ermöglicht das schnelle Durchsuchen kommender Events. Inhalte werden visuell priorisiert dargestellt, um eine effiziente Erfassung relevanter Veranstaltungen zu unterstützen.
+  - Die Übersicht ermöglicht das schnelle Durchsuchen kommender Events.
+  - Inhalte werden visuell priorisiert dargestellt, um eine effiziente Erfassung relevanter Veranstaltungen zu unterstützen.
 
 - Rechte Ansicht:
-  - Die Detailansicht bietet umfassende Informationen zum ausgewählten Event. Der Fokus liegt auf einer klaren Informationshierarchie, die eine strukturierte und intuitive Erfassung aller eventrelevanten Daten ermöglicht.
+  - Die Eventdetailansicht stellt umfassende Informationen zum ausgewählten Event bereit.
+  - Die UI folgt einer klaren Informationshierarchie, wodurch Inhalte strukturiert, leicht verständlich und schnell erfassbar präsentiert werden.
 
 <img width="1517" height="1348" alt="Mobile Screen" src="figma-ui/Mobile App.png" />
 
