@@ -31,7 +31,11 @@ UI/UX Design · Prototyping · Informationsarchitektur
 # Design Screens 
 
 ## Übersicht (CMS + App)
-  - Verbundene Interfaces für Eventverwaltung und Eventdarstellung
+  - Das System besteht aus einem verbundenen CMS und einer mobilen Anwendung, die gemeinsam eine durchgängige Lösung für die Eventverwaltung und Eventdarstellung bieten.
+
+- In der App werden ausschließlich jene Events angezeigt, die im CMS als aktiv markiert sind. Dadurch wird eine klare Trennung zwischen Entwurfs- bzw. inaktiven Inhalten und veröffentlichten Events gewährleistet.
+
+Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv geschaltete Events sind in der App sichtbar, während deaktivierte Events vollständig ausgeblendet bleiben.
 
 <img width="2860" height="1416" alt="Übersicht" src="figma-ui/Übersicht.png" />
 
@@ -41,33 +45,38 @@ UI/UX Design · Prototyping · Informationsarchitektur
 
 <img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS Screen.png" />
 
-## CMS UI 
-- Filteroptionen
+## CMS UI - Event Filter
+- Zur gezielten Eingrenzung der Eventliste stehen im CMS Filteroptionen zur Verfügung, die über das Filtersymbol innerhalb der Suchleiste aktiviert werden können.
+- Nach dem Öffnen der Filteransicht können Events anhand verschiedener Kriterien gefiltert werden, darunter Status, Datum oder Location.
+- Die Filter ermöglichen eine effiziente Navigation innerhalb großer Datenbestände und unterstützen eine schnelle Identifikation relevanter Datensätze im Verwaltungsprozess.
+  
 <img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS - Filter Option Active.png" />
 
-## CMS UI 
-- Account Popup Sidebar
+## CMS UI - Account Popup
+- Durch das Anklicken des Account-Icons wird ein kontextuelles Popup geöffnet, das erweiterte Profil- und Kontofunktionen bereitstellt.
+- Innerhalb dieses Menüs stehen dem Nutzer verschiedene Account-bezogene Optionen zur Verfügung, darunter Profileinstellungen sowie die Möglichkeit zur Abmeldung.
+- Die Logout-Funktion beendet die aktuelle Session und leitet den Nutzer aus dem geschützten Bereich der Anwendung.
 
 <img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS - Account Popup Active.png" />
 
 ## Mobile App UI
-  - Die App wird von Kunden genutzt, um bevorstehende Veranstaltungen zu entdecken und Veranstaltungsdetails einzusehen.
-  - links: Nutzer können kommende Events schnell durchsuchen und visuell erfassen.
-  - rechts: Detaillierte Eventansicht mit Fokus auf klare Informationshierarchie.
+- Die App dient Endnutzern als Plattform zur Entdeckung und Anzeige bevorstehender Veranstaltungen sowie zur detaillierten Einsicht in Eventinformationen.
+
+- Linke Ansicht:
+  - Die Übersicht ermöglicht das schnelle Durchsuchen kommender Events. Inhalte werden visuell priorisiert dargestellt, um eine effiziente Erfassung relevanter Veranstaltungen zu unterstützen.
+
+- Rechte Ansicht:
+  - Die Detailansicht bietet umfassende Informationen zum ausgewählten Event. Der Fokus liegt auf einer klaren Informationshierarchie, die eine strukturierte und intuitive Erfassung aller eventrelevanten Daten ermöglicht.
 
 <img width="1517" height="1348" alt="Mobile Screen" src="figma-ui/Mobile App.png" />
-
-<img width="428" height="908" alt="Mobile Screen" src="figma-ui/Mobile-App.png" />
-
-<img width="428" height="908" alt="Mobile Screen Event Detail" src="figma-ui/Mobile App Event Detail.png" />
-
 
 
 ## Wichtige Erkenntnisse
 Das Design zweier miteinander verbundener Systeme (Admin + Nutzer) verbessert die Verständlichkeit und Konsistenz des gesamten Nutzererlebnisses deutlich.
 
 ## Hinweis
-Die deutsche Aufgabenstellung befindet sich in der Datei "task-challenge-de.txt", die englische Version in der Datei "task-challenge-en.txt".
+- Die deutsche Aufgabenstellung befindet sich in der Datei `task-challenge-de.txt`, die englische Version in der Datei `task-challenge-en.txt`.
+- Weitere Screenshots zum Projekt befinden sich im Ordner `figma-ui`.
 
 
 
