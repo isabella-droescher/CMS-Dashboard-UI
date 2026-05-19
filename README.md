@@ -57,9 +57,9 @@ UI/UX Design · Prototyping · Informationsarchitektur
 
 <img width="1517" height="1348" alt="Mobile Screen" src="figma-ui/Mobile App.png" />
 
-<img width="1517" height="1348" alt="Mobile Screen" src="figma-ui/Mobile-App.png" />
+<img width="428" height="908" alt="Mobile Screen" src="figma-ui/Mobile-App.png" />
 
-<img width="1517" height="1348" alt="Mobile Screen Event Detail" src="figma-ui/Mobile App Event Detail.png" />
+<img width="428" height="908" alt="Mobile Screen Event Detail" src="figma-ui/Mobile App Event Detail.png" />
 
 
 
