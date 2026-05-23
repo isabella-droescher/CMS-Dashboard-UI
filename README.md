@@ -52,6 +52,15 @@ Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv gesch
   
 <img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS - Filter Option Active.png" />
 
+## CMS UI - Event Search 
+- Zur gezielten Suche einzelner Veranstaltungen steht im CMS eine integrierte Suchfunktion zur Verfügung, die über die Suchleiste verwendet werden kann.
+- Während bzw. nach der Eingabe eines Suchbegriffs werden alle relevanten Events dynamisch gefiltert und in der Eventliste angezeigt.
+- Die Suchfunktion unterstützt eine schnelle Navigation innerhalb großer Datenbestände und verbessert die Effizienz bei der Verwaltung von Veranstaltungen.
+- Die UI ist auf eine intuitive Benutzerführung ausgelegt und ermöglicht einen schnellen Zugriff auf relevante Inhalte ohne zusätzliche Navigationsschritte.
+
+<img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS - Search Active.png" />
+
+
 ## CMS UI - Account Popup
 - Durch das Anklicken des Account-Icons wird ein kontextuelles Popup geöffnet, das erweiterte Profil- und Kontofunktionen bereitstellt.
 - Innerhalb dieses Menüs stehen dem Nutzer verschiedene Account-bezogene Optionen zur Verfügung, darunter Profileinstellungen sowie die Möglichkeit zur Abmeldung.
