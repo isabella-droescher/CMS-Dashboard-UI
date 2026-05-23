@@ -82,20 +82,22 @@ Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv gesch
 
 <img width="1517" height="1348" alt="Mobile Screen" src="figma-ui/Mobile App.png" />
 
-## Wichtige Erkenntnisse
-Das Design zweier miteinander verbundener Systeme (Admin + Nutzer) verbessert die Verständlichkeit und Konsistenz des gesamten Nutzererlebnisses deutlich.
-
-## Hinweis
-- Die deutsche Aufgabenstellung befindet sich in der Datei `task-challenge-de.txt`, die englische Version in der Datei `task-challenge-en.txt`.
-- Weitere Screenshots zum Projekt befinden sich im Ordner `figma-ui`.
-
 ## Verwendete Color Styles für UI
 - Die Benutzeroberflächen von CMS und Mobile App basieren auf einem konsistenten Color-System zur Unterstützung einer klaren visuellen Hierarchie und einer einheitlichen User Experience.
 
 - Die definierten Color Styles werden systemweit für zentrale UI-Komponenten wie Navigation, Buttons, Statusanzeigen, Cards und interaktive Elemente verwendet. 
 - Durch den konsistenten Einsatz von Primär-, Sekundär- und Statusfarben wird die Wiedererkennbarkeit der Anwendung erhöht sowie die Benutzerführung visuell unterstützt. 
 
-<img width="2517" height="4463" alt="Color Styles" src="figma-ui/Color Styles.png" />
+<img width="1517" height="2463" alt="Color Styles" src="figma-ui/Color Styles.png" />
+
+
+------
+## Wichtige Erkenntnisse
+Das Design zweier miteinander verbundener Systeme (Admin + Nutzer) verbessert die Verständlichkeit und Konsistenz des gesamten Nutzererlebnisses deutlich.
+
+## Hinweis
+- Die deutsche Aufgabenstellung befindet sich in der Datei `task-challenge-de.txt`, die englische Version in der Datei `task-challenge-en.txt`.
+- Weitere Screenshots zum Projekt befinden sich im Ordner `figma-ui`.
 
 
 
