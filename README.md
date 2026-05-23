@@ -68,6 +68,10 @@ Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv gesch
 
 <img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS - Account Popup Active.png" />
 
+## CMS UI - Seitenansicht 
+- UI/UX-Design der zweiten CMS-Seitenansicht mit Fokus auf konsistente Navigation, klare Informationsstruktur und effiziente Benutzerführung.
+<img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS Seite 2.png" />
+
 ## Mobile App UI
 - Die Mobile App ist für Endnutzer konzipiert und dient als Plattform zur Entdeckung und Darstellung bevorstehender Veranstaltungen.
 - Der Fokus liegt auf einer intuitiven, visuell orientierten User Experience mit klarer Informationsstruktur.
