@@ -68,8 +68,9 @@ Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv gesch
 
 <img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS - Account Popup Active.png" />
 
-## CMS UI - Seitenansicht 
-- UI/UX-Design der zweiten CMS-Seitenansicht mit Fokus auf konsistente Navigation, klare Informationsstruktur und effiziente Benutzerführung.
+## CMS UI - Seitenansicht (Beispiel Darstellung)
+- UI/UX-Design der zweiten CMS-Seitenansicht.
+- Sobald die Eventliste genügend Einträge enthält, wird die Darstellung automatisch auf weitere Seiten erweitert.
 <img width="1440" height="1024" alt="CMS Screen" src="figma-ui/CMS Seite 2.png" />
 
 ## Mobile App UI
