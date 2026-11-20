@@ -57,21 +57,12 @@ Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv gesch
 
 <img width="1517" height="1348" alt="Mobile Screen" src="mobile-view.png" />
 
-## Verwendete Color Styles für UI
-- Die Benutzeroberflächen von CMS und Mobile App basieren auf einem konsistenten Color-System zur Unterstützung einer klaren visuellen Hierarchie und einer einheitlichen User Experience.
-
-- Die definierten Color Styles werden systemweit für zentrale UI-Komponenten wie Navigation, Buttons, Statusanzeigen, Cards und interaktive Elemente verwendet. 
-- Durch den konsistenten Einsatz von Primär-, Sekundär- und Statusfarben wird die Wiedererkennbarkeit der Anwendung erhöht sowie die Benutzerführung visuell unterstützt. 
-
-<img width="1517" height="2463" alt="Color Styles" src="style-guide/01 colors.png" />
-
-
 ------
 ## Wichtige Erkenntnisse
 Das Design zweier miteinander verbundener Systeme (Admin + Nutzer) verbessert die Verständlichkeit und Konsistenz des gesamten Nutzererlebnisses deutlich.
 
 ## Hinweis
-- Die deutsche Aufgabenstellung befindet sich in der Datei `task-challenge-de.txt`, die englische Version in der Datei `task-challenge-en.txt`.
+- Informationen zu verwendeten Farben, Typographie und Komponenten befinden sich im Ordner `style-guide`.
 - Weitere Screenshots zum Projekt befinden sich im Ordner `cms-desktop` und `cms-mobile`.
 
 
