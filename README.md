@@ -59,7 +59,7 @@ Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv gesch
 - Die definierten Color Styles werden systemweit für zentrale UI-Komponenten wie Navigation, Buttons, Statusanzeigen, Cards und interaktive Elemente verwendet. 
 - Durch den konsistenten Einsatz von Primär-, Sekundär- und Statusfarben wird die Wiedererkennbarkeit der Anwendung erhöht sowie die Benutzerführung visuell unterstützt. 
 
-<img width="1517" height="2463" alt="Color Styles" src="style-guide/colors.png" />
+<img width="1517" height="2463" alt="Color Styles" src="style-guide/01 colors.png" />
 
 
 ------
