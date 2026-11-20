@@ -57,6 +57,10 @@ Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv gesch
 
 <img width="1517" height="1348" alt="Mobile Screen" src="mobile-view.png" />
 
+## All 
+<img width="1517" height="1348" alt="Mobile Screen" src="all-cms-desktop.png" />
+<img width="1517" height="1348" alt="Mobile Screen" src="all-cms-mobile.png" />
+
 ------
 ## Wichtige Erkenntnisse
 Das Design zweier miteinander verbundener Systeme (Admin + Nutzer) verbessert die Verständlichkeit und Konsistenz des gesamten Nutzererlebnisses deutlich.
