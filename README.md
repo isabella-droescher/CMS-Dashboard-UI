@@ -50,13 +50,10 @@ Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv gesch
 - Die Mobile App ist für Endnutzer konzipiert und dient als Plattform zur Entdeckung und Darstellung bevorstehender Veranstaltungen.
 - Der Fokus liegt auf einer intuitiven, visuell orientierten User Experience mit klarer Informationsstruktur.
 
-- Linke Ansicht:
-  - Die Übersicht ermöglicht das schnelle Durchsuchen kommender Events.
-  - Inhalte werden visuell priorisiert dargestellt, um eine effiziente Erfassung relevanter Veranstaltungen zu unterstützen.
-
-- Rechte Ansicht:
-  - Die Eventdetailansicht stellt umfassende Informationen zum ausgewählten Event bereit.
-  - Die UI folgt einer klaren Informationshierarchie, wodurch Inhalte strukturiert, leicht verständlich und schnell erfassbar präsentiert werden.
+- Die Übersicht ermöglicht das schnelle Durchsuchen kommender Events.
+- Inhalte werden visuell priorisiert dargestellt, um eine effiziente Erfassung relevanter Veranstaltungen zu unterstützen.
+- Die Eventdetailansicht stellt umfassende Informationen zum ausgewählten Event bereit.
+- Die UI folgt einer klaren Informationshierarchie, wodurch Inhalte strukturiert, leicht verständlich und schnell erfassbar präsentiert werden.
 
 <img width="1517" height="1348" alt="Mobile Screen" src="mobile-view.png" />
 
