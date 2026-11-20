@@ -39,6 +39,13 @@ Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv gesch
 
 <img width="2860" height="1416" alt="Übersicht" src="cms-view.png" />
 
+## CMS UI
+  - Das CMS wird von Veranstaltern genutzt, um Veranstaltungen zu erstellen, zu verwalten und zu aktualisieren.
+  - Übersicht aller Events mit Fokus auf schnelle Bearbeitung und klare Struktur.
+  - Login, Dashboard, Events
+
+<img width="1440" height="1024" alt="CMS Screen" src="desktop-view.png" />
+
 ## Mobile App UI
 - Die Mobile App ist für Endnutzer konzipiert und dient als Plattform zur Entdeckung und Darstellung bevorstehender Veranstaltungen.
 - Der Fokus liegt auf einer intuitiven, visuell orientierten User Experience mit klarer Informationsstruktur.
