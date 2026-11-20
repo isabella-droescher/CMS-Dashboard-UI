@@ -68,7 +68,7 @@ Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv gesch
 ## Mobile App 
 - Dieser Bereich bietet einen Überblick über die Wireframes der Mobile-App-Version.
 - Detaillierte Screenshots befinden sich im Verzeichnis `cms-mobile`
-- 
+
 <img width="8168" height="20656" alt="Mobile Screen" src="all-cms-mobile.png" />
 
 ------
@@ -78,7 +78,7 @@ Das Design zweier miteinander verbundener Systeme (Admin + Nutzer) verbessert di
 ## Hinweis
 - Informationen zu verwendeten Farben, Typographie und Komponenten befinden sich im Ordner `style-guide`.
 - Weitere Screenshots zum Projekt befinden sich im Ordner `cms-desktop` und `cms-mobile`.
-
+- Stand: 20. November 2026
 
 
 
