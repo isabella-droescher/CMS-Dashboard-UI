@@ -57,9 +57,19 @@ Der Unterschied wird im folgenden Beispiel deutlich dargestellt: Nur aktiv gesch
 
 <img width="1517" height="1348" alt="Mobile Screen" src="mobile-view.png" />
 
-## All 
-<img width="1517" height="1348" alt="Mobile Screen" src="all-cms-desktop.png" />
-<img width="1517" height="1348" alt="Mobile Screen" src="all-cms-mobile.png" />
+# Wireframes
+
+## CMS Desktop
+- Dieser Bereich bietet einen Überblick über die Wireframes der CMS-Desktop-Version.
+- Detaillierte Screenshots befinden sich im Verzeichnis `cms-desktop`
+
+<img width="18680" height="12440" alt="Mobile Screen" src="all-cms-desktop.png" />
+
+## Mobile App 
+- Dieser Bereich bietet einen Überblick über die Wireframes der Mobile-App-Version.
+- Detaillierte Screenshots befinden sich im Verzeichnis `cms-mobile`
+- 
+<img width="8168" height="20656" alt="Mobile Screen" src="all-cms-mobile.png" />
 
 ------
 ## Wichtige Erkenntnisse
